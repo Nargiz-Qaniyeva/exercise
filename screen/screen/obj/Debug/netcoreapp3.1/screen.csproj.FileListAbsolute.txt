@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\121252\screen\screen\bin\Debug\netcoreapp3.1\screen.exe
+C:\Users\nargi\Desktop\121252\screen\screen\bin\Debug\netcoreapp3.1\screen.deps.json
+C:\Users\nargi\Desktop\121252\screen\screen\bin\Debug\netcoreapp3.1\screen.runtimeconfig.json
+C:\Users\nargi\Desktop\121252\screen\screen\bin\Debug\netcoreapp3.1\screen.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\121252\screen\screen\bin\Debug\netcoreapp3.1\screen.dll
+C:\Users\nargi\Desktop\121252\screen\screen\bin\Debug\netcoreapp3.1\screen.pdb
+C:\Users\nargi\Desktop\121252\screen\screen\obj\Debug\netcoreapp3.1\screen.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\121252\screen\screen\obj\Debug\netcoreapp3.1\screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\121252\screen\screen\obj\Debug\netcoreapp3.1\screen.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\121252\screen\screen\obj\Debug\netcoreapp3.1\screen.AssemblyInfo.cs
+C:\Users\nargi\Desktop\121252\screen\screen\obj\Debug\netcoreapp3.1\screen.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\121252\screen\screen\obj\Debug\netcoreapp3.1\screen.dll
+C:\Users\nargi\Desktop\121252\screen\screen\obj\Debug\netcoreapp3.1\screen.pdb
+C:\Users\nargi\Desktop\121252\screen\screen\obj\Debug\netcoreapp3.1\screen.genruntimeconfig.cache
